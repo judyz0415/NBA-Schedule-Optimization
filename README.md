@@ -1,5 +1,7 @@
 # NBA Schedule Optimization: Balancing Fan Demand and Player Health
 
+![Player Fatigue](player%20fatigue.jpeg)
+
 This project presents an optimization framework for the NBA regular-season schedule with a clear league objective: increase fan engagement and commercial value while reducing fatigue-related travel stress.
 
 I built this work to reflect how I think about basketball operations problems: data-driven, operationally realistic, and aligned with both business outcomes and player welfare.
