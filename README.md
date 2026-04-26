@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# NBA-Schedule-Optimization
-=======
 # NBA Schedule Optimization: Balancing Fan Demand and Player Health
 
 This project presents an optimization framework for the NBA regular-season schedule with a clear league objective: increase fan engagement and commercial value while reducing fatigue-related travel stress.
@@ -93,5 +90,3 @@ This repository contains the analysis assets used in the project, including:
 - Scheduling and team datasets (`data/raw/schedule.csv`, `data/raw/distance.csv`, `data/raw/team_list.csv`, etc.)
 - Weighting inputs (`data/weights/baseline_weights.xlsx`, `data/weights/bonus_weights.xlsx`)
 - Final written report (`reports/nba_schedule_optimization_report.pdf`)
-
->>>>>>> b0b9f18 (Reorganize project into clean GitHub-ready structure and update README)
